@@ -3,10 +3,10 @@
 #include <BlynkSimpleEsp8266.h>
 
 
-char auth[] = "w8G-Wm6NYLKxtd-srIdRLG5vsfCoa0-P";
+char auth[] = "token PADA BLYNK";
 
-char uuuusername[] = "DHD";
-char sandi[] = "hesa1305";
+char uuuusername[] = "username kamu";
+char sandi[] = "password kamu";
 
 void setup()
 {
